@@ -1,0 +1,17 @@
+# Jupyter Notebookのチェックポイントファイルを無視
+.ipynb_checkpoints/
+
+# データフォルダを無視
+data/
+
+# 出力ファイル（グラフ画像など）を無視
+output/
+
+# Pythonのキャッシュファイルを無視
+__pycache__/
+*.pyc
+*.pyo
+
+# その他、OSが自動生成する不要ファイル
+.DS_Store
+Thumbs.db
