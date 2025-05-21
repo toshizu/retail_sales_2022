@@ -34,10 +34,9 @@
 `output/` フォルダ内に、分析から得られた主要グラフをPNG形式で保存・掲載しています。
 
 （例）  
-- 01_gender_age_sales.png  
-- 02_payment_method_sales.png  
-- 03_mall_category_heatmap.png  
-- ...ほか合計約7枚程度の代表グラフ
+![01_gender_age_sales](output/01_gender_age_sales_2022.png)
+![02_payment_method_sales](output/02_total_sales_by_payment_method.png) 
+![08_mall_category_sales](output/08_mall_category_sales_heatmap.png) 
 
 ---
 
